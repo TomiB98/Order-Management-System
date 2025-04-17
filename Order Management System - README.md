@@ -26,8 +26,6 @@ Each microservice has its own dedicated repository:
 - 🌐 [`api-gateway`](https://github.com/TomiB98/MH-MicroService-ApiGateway): Entry point to the system, handles routing and authentication.
 - 📡 [`eureka-server`](https://github.com/TomiB98/MH-MicroService-EurekaServer): Service registry and discovery.
 
-> Replace the links above with your actual GitHub URLs.
-
 ---
 
 ## ⚙️ Technologies Used
