@@ -26,8 +26,6 @@ Cada microservicio tiene su propio repositorio:
 - 🌐 [`api-gateway`](https://github.com/TomiB98/MH-MicroService-ApiGateway): Entrada principal al sistema, maneja el enrutamiento y la autenticación.
 - 📡 [`eureka-server`](https://github.com/TomiB98/MH-MicroService-UserService): Registro y descubrimiento de servicios.
 
-> Reemplazá los enlaces con tus URLs reales de GitHub.
-
 ---
 
 ## ⚙️ Tecnologías Utilizadas
